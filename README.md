@@ -5,6 +5,7 @@ AutoMapper is an object-object mapper. Object-object mapping works by transformi
 ## GettingStartedExamples
 
 - Getting started example
+  - Initializing and configuring the AutoMapper
 
 ## Links
 
