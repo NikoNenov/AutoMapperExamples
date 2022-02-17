@@ -6,6 +6,9 @@ AutoMapper is an object-object mapper. Object-object mapping works by transformi
 
 - Getting started example
   - Initializing and configuring the AutoMapper
+  - What will happen if the source and destination property names are different?
+  - How to map two properties when the names are different using AutoMapper?
+
 
 ## Links
 
