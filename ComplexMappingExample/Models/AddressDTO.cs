@@ -4,20 +4,19 @@
 //  </copyright>
 // 
 //  <summary>
-//    Employee model (Data transfer object)
+//    Address model (Data transfer object)
 //  </summary>
 // 
 //  <date>17-02-2022</date>
 //  <author>Nikolay Nenov</author>
 //  --------------------------------------------------------------------------------------------------------------------
 
-namespace GettingStartedExample.Models
+namespace ComplexMappingExample.Models
 {
-  public class EmployeeDTO
+  public class AddressDTO
   {
-    public string Name { get; set; }
-    public int Salary { get; set; }
-    public string Address { get; set; }
-    public string Department { get; set; }
+    public string City { get; set; }
+    public string State { get; set; }
+    public string Country { get; set; }
   }
 }
